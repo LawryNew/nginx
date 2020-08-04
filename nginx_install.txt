@@ -1,0 +1,9 @@
+nginx需要的依赖
+
+
+
+yum -y install gcc gcc-c++  zlib zlib-devel openssl openssl-devel pcre-devel make
+
+
+
+把 repo.zip 放新服务器  yum update下
